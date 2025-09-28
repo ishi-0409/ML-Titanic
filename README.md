@@ -28,7 +28,7 @@ Embarked         2
 なお今回は欠損値の削除、補完は行っていない。  
 
 # モデルの構築
-scikit-learnのtreeからDecisionTreeClassifierし、決定木のモデルを作成する。  
+scikit-learnのtreeからDecisionTreeClassifierをインポートし、決定木のモデルを作成する。  
 fitメソッドによりモデルの学習を行う。  
 
 # モデルの評価
